@@ -1,31 +1,28 @@
 {
-    "user":[
-        {
-            "id":"user-id-1",
-            "name": "friend",
-            "email":"friend@gmail.com",
-            "password":"password123"
-        }
-    ],
-    "dealers":[
+  "user": [
     {
-        "dealer_id":"dealer_id-1",
-        "name":"ramu",
-        "email":"ramu@gmail.com",
-        "password":"password123",
-        "cpmpanyname":"xyz",
-        "mobile":7997940693,
-        "isActive":"true",
-        "payment":[]
+      "id": "101",
+      "name": "Rajasekhar",
+      "email": "rajasekhar@example.com",
+      "password": "12345",
+      "role": "public",
+      "isActive": "true"
+    },
+    {
+      "id": "102",
+      "name": "Sekhar",
+      "email": "sekhar@example.com",
+      "password": "123",
+      "role": "public",
+      "isActive": "true"
+    },
+    {
+      "id": "17d0",
+      "email": "hh@gmail.com",
+      "password": "1234",
+      "fullname": "hsdhdsh",
+      "role": "public",
+      "isActive": true
     }
-    ],
-    "products":[
-        {
-            "prodid":123,
-            "prod_title":"sona masoor",
-            "price":120,
-            "quentity":25
-        }
-    ]
-    
+  ]
 }
